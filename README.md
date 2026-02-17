@@ -1,3 +1,4 @@
 # Sidewinder
+Welcome to the Sidewinder!
 
-Github page for the Sidewinder. Mainly used for creating download links.
+https://static.wikia.nocookie.net/halo/images/4/40/Sidewinder.JPG/revision/latest?cb=20070705205225
