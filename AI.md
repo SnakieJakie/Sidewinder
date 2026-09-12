@@ -1,10 +1,10 @@
 # My stance on AI in programming
 
 ## General thoughts?
-Fuck A.i. It is sign you have no talent and can't program for shit. If you do not those words, you can fork any of my projects and make your own getto shitGPT projects with my code, but it won't be as personal or talented as my own. Tough shit.
+Fuck A.i. It is sign you have no talent and can't program for shit. If you do not likethose words, you can fork any of my projects and make your own getto shitGPT projects with my code, but it won't be as personal or talented as my own. Tough shit.
 
 ## Why do you hate it so much?
-1. A.i doesn't teach you anything. Oh sure, you can vibe-code the next COD game, but you won't know a clue on how that code really works. If you wrote your own, you actually do! You can spend hours looking at that code and maybe you can understand a bit, but you won't know how all of it really works, or how to fix to tweak it.
+1. A.i doesn't teach you anything. Oh sure, you can vibe-code the next COD game, but you won't know a clue on how that code really works. If you wrote your own, you actually do! You can spend hours looking at that Ai code and maybe you can understand a bit, but you won't know how all of it really works, or how to fix to tweak it. And chances are, you didn't know how to how to code in the first place.
 
 2. The companies and people who advertise it are so fucking obnoxious about it. They act like this is the only way to code now. And if you don't like it, you are missing out. I am not missing out. I poured a lot of work into my projects and I didn't need to use A.i for any of them. A.i lacks the personal touch you can clearly see in open-source projects that don't use it.
 
