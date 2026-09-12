@@ -17,5 +17,5 @@ Fuck A.i. It is sign you have no talent and can't program for shit. If you do no
 6. A.i is just shit. It basically quantity over quality. Name a good thing that A.i has uniquely done that normal coding has not. From what I've seen, it has made shit and everything that it touches shit.
 
 
-# A.i is inevitable.
+## "A.i is inevitable."
 Oh sure. But I won't use it. Just like people who still buy music CDs instead of using Spotify. Or go into the store instead of using Amazon or drive-up. Or pull out a dictionary instead of using Google. Call me outdated, a trend chaser, or obnoxious about Anti-Ai, but I'm not gonna blindly love it. I need a reason and it hasn't give me a reason to like it, only reasons to hate it.    
