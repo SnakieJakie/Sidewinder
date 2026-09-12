@@ -1,2 +1,2 @@
 esfesfesfes
-[Ai](ai).
+[Ai](ai.md).
