@@ -17,6 +17,6 @@ Welcome to the Sidewinder! The personal site for SnakieJakie! You can find archi
 
 
 
-  I take great pride on keeping all my projects A.i free. If you want to hear my rant about A.i, see [this.](AI.MD)
+  I take great pride on keeping all my projects A.i free. If you want to hear my rant about A.i, see [this.](AI.md)
 
 ![Sidewinder.](https://static.wikia.nocookie.net/halo/images/4/40/Sidewinder.JPG/revision/latest?cb=20070705205225)
